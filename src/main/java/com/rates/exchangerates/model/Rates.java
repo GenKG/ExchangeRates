@@ -1,8 +1,5 @@
 package com.rates.exchangerates.model;
 
-
-
-
 import java.util.Map;
 
 public class Rates<String,Double> {

@@ -1,9 +1,6 @@
 package com.rates.exchangerates.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
 import java.io.Serializable;
-
 
 public class LatestJson<String,Rates> implements Serializable {
     private String disclaimer;
