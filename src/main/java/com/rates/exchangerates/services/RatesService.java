@@ -14,6 +14,7 @@ import java.util.Map;
 
 @Service
 public class RatesService {
+
     private RatesClient ratesClient;
 
     @Autowired

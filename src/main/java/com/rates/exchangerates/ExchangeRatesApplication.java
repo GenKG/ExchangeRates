@@ -6,10 +6,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-public class ExchangeratesApplication {
+public class ExchangeRatesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ExchangeratesApplication.class, args);
+        SpringApplication.run(ExchangeRatesApplication.class, args);
     }
 
 }
